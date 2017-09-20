@@ -6,4 +6,11 @@
     <string name="apellido">Apellido</string>
     <string name="limpiar">Limpiar</string>
     <string name="numero">#</string>
+    <string name="crear">Crear Personas</string>
+    <string name="listar">Listar Personas</string>
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listar</item>
+    </array>
+    <string name="mensaje1">Persona Guardada Exitosamente</string>
 </resources>
